@@ -1,0 +1,9 @@
+name: STNPC
+main: me.Ranil.STNPC.STNPCBase
+version: 0.0.1
+author: Ranil
+commands:
+  spawnregion:
+    description: Set an item's stats.
+  stname:
+    description: Change an item's name.
